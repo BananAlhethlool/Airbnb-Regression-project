@@ -23,6 +23,6 @@ The used dataset scraped from airbnb.com with 10 features and 522 rows will be h
 
 
 ## Tools
-;
+
 - Technologies: Jupyter Notebook, Python.
 - Libraries: Pandas, NumPy, Matplotlib, Seaborn, BeautifulSoup and Selenium. 
