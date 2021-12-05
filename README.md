@@ -1,4 +1,4 @@
-# Airbnb Linear Regression
+# <p align="center">  Airbnb Linear Regression </p>
 By Banan Alhethlool | banan.alhethlool@gmail.com
 
 ## Introduction
